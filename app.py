@@ -1,9 +1,9 @@
-! pip install "numpy==1.26.4"
-! pip install "pandas==2.3.3"
-! pip install "matplotlib==3.9.4"
-! pip install "requests==2.32.5"
-! pip install "Pillow==11.3.0"
-! pip install "openai==2.30.0"
+# ! pip install "numpy==1.26.4"
+# ! pip install "pandas==2.3.3"
+# ! pip install "matplotlib==3.9.4"
+# ! pip install "requests==2.32.5"
+# ! pip install "Pillow==11.3.0"
+# ! pip install "openai==2.30.0"
 import streamlit as st
 import base64
 import json
