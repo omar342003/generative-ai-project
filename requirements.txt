@@ -5,3 +5,5 @@ matplotlib
 requests
 Pillow
 openai
+arabic-reshaper
+python-bidi
